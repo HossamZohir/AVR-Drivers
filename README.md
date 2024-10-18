@@ -16,5 +16,5 @@ Clone the repository: git clone https://github.com/HossamZohir/AVR-Drivers.git c
 # Contact
 If you have any questions or need further assistance, feel free to reach out to me:
 
-Email: hzohir@horus.edu.eg , LinkedIn: Hossam Zohir , GitHub: HossamZohir
+Email: hzohir@horus.edu.eg , LinkedIn: Hossam Zohir 
 Thank you for your interest in the AVR Drivers Repository! Happy coding!
